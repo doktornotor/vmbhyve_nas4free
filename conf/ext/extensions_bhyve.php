@@ -141,7 +141,7 @@ $(document).ready(function(){
 									<tr>
 									<td class="list" colspan="5"></td>
 									<td class="list">
-										<a href="extensions_bhyve_edit.php"><img src="plus.gif" title="<?=gettext("Add machine");?>" border="0" alt="<?=gettext("Add machine");?>" /></a>
+										<a href="extensions_bhyve_edit.php"><img src="images/add.png" title="<?=gettext("Add machine");?>" border="0" alt="<?=gettext("Add machine");?>" /></a>
 										
 									</td>
 								</tr>
